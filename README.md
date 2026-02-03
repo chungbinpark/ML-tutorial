@@ -7,4 +7,4 @@
 
 ## Chapter 2 딥러닝모델
 ### 2-1. 딥러닝모델설계 [[구글 코랩 실행하기](https://colab.research.google.com/github/chungbinpark/ML-tutorial/blob/main/2_1_딥러닝모델설계.ipynb)]
-### 2-2. 딥러닝모델설계 [[구글 코랩 실행하기](https://colab.research.google.com/github/chungbinpark/ML-tutorial/blob/main/2_2_딥러닝데이터살펴보기.ipynb)]
+### 2-2. 딥러닝모델설계 [[구글 코랩 실행하기](https://colab.research.google.com/github/chungbinpark/ML-tutorial/blob/main/2_2_데이터살펴보기.ipynb)]
