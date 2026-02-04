@@ -15,4 +15,4 @@
 ### 3-2. 학습자동중단 [[구글 코랩 실행하기](https://colab.research.google.com/github/chungbinpark/ML-tutorial/blob/main/3_2_학습자동중단.ipynb)]
 
 ## Chapter 4 CNN 모델
-### 4-1. CNN모델 [[구글 코랩 실행하기](https://colab.research.google.com/github/chungbinpark/ML-tutorial/blob/main/4_CNN모델.ipynb)]
+### 4. CNN모델 [[구글 코랩 실행하기](https://colab.research.google.com/github/chungbinpark/ML-tutorial/blob/main/4_CNN모델.ipynb)]
